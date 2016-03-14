@@ -16,10 +16,4 @@ public interface Constants {
             R.id.number_8_button,
             R.id.number_9_button
     };
-
-    final public static int[] imageButtonIds = {
-            R.id.backspace_button,
-            R.id.call_button,
-            R.id.hangup_button
-    };
 }
